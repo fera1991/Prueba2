@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Prueba2Navegation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">digite su nombre</string>
+    <string name="seletion1">Opcion 1</string>
+    <string name="elige_un_dato">Elige un dato</string>
+    <string name="seletion2">Opcion 2</string>
+    <string name="opcion_2">Opcion 2</string>
+    <string name="action_next">Continuar</string>
+    <string name="text_resum">Resumen</string>
+    <string name="data_text_acount">Cuenta:</string>
+    <string name="tramite">Tramite:</string>
+</resources>
