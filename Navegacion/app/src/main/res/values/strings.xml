@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="plus_one_point">+1</string>
+    <string name="plus_two_point">+2</string>
+    <string name="plus_three_point">+3</string>
+    <string name="resultado_del_partido">Resultado Del Partido</string>
+    <string name="ganador">Ganador</string>
+    <string name="perdedor">Perdedor</string>
+    <string name="TIE">Empate</string>
+</resources>
